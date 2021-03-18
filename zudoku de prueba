@@ -1,0 +1,35 @@
+program zdk;
+var 
+   record (sudoku resuelto) const
+   record (pistas sudoku '17' in green) const
+   array [1...9]
+ beging
+   charge (pistas sudoku) to (Matriz)
+   function if (matriz 9x9) then charge
+   if not then
+   end
+     for i=columna to 9 array [1...9]
+     for e=fila to 9 array [1...9]
+ end
+beging
+  write (ingrese "nombre de usuario")
+  read ("nombre de usuario")
+  procedure ('ingresar coumna' "n")
+  procedure ('ingresar fila' "n")
+  read array if (n diferente to array [1...9]) then
+  record ("n" in black)
+  if not then
+  record ("n" in red) and
+  procedure write ('ingrese otro valor') and ('desea "rendirse"?')
+  in case ('ingrese otro valor') then
+  backup '17
+  in case ("rendirse)then
+  procedure (imprimir 'sudoku resuelto')
+ end
+beging
+  procedure read (matriz) then
+  in case (all n=sudoku resuelto) then 
+  procedure (mostrar zudoku resuelto) and
+  write ("FELICIDADES")
+ end
+end   
